@@ -1,0 +1,11 @@
+# Personal progress files
+progress/*/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
